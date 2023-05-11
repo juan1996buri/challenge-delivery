@@ -1,0 +1,30 @@
+name: project_delivery_animation
+description: A new Flutter project.
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=2.19.6 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/banana.jpeg
+    - assets/images/carambola.jpg
+    - assets/images/fresa.jpeg
+    - assets/images/kiwi.jpg
+    - assets/images/limon.jpg
+    - assets/images/mango.jpg
+    - assets/images/papaya.jpg
+    - assets/images/manzana.jpeg
+    - assets/images/pera.jpg
+    - assets/images/sandia.jpeg
